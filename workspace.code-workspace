@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../Semester 2 SRM"
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools"
+		]
+	}
+}
